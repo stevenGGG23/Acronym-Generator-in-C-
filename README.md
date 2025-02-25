@@ -1,4 +1,4 @@
-# Acronym-Generator-in-C- 
+# Acronym-Generator-in-C++
 This C++ program reads strings from a data file named acronym.dat and generates acronyms by extracting the first letters of each word. It showcases file handling using C++ file stream operations, including opening and closing files, as well as asserting that the file opens successfully. The generated acronyms are displayed in a specified format, ensuring that all letters in the acronyms are uppercase. 
 
 Features:
